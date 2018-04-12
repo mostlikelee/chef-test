@@ -1,4 +1,5 @@
 # nginx
+[![Build Status](https://travis-ci.org/mostlikelee/chef-test.svg?branch=master)](https://travis-ci.org/mostlikelee/chef-test)
 
 This cookbook installs and configures a simple website using the nginx web server.
 
